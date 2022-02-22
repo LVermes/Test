@@ -1,5 +1,6 @@
 <?php
+$msg = "nouvelle tentative";
 
-print(3)
+print($msg);
 
->
+?>
